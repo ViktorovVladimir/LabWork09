@@ -1,0 +1,15 @@
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\bin\Debug\net8.0\BookEx2.exe
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\bin\Debug\net8.0\BookEx2.deps.json
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\bin\Debug\net8.0\BookEx2.runtimeconfig.json
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\bin\Debug\net8.0\BookEx2.dll
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\bin\Debug\net8.0\BookEx2.pdb
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.AssemblyInfoInputs.cache
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.AssemblyInfo.cs
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.sourcelink.json
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.dll
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\refint\BookEx2.dll
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.pdb
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\BookEx2.genruntimeconfig.cache
+D:\Labs\LabWork09\Lab10\Starter\BookEx2\BookEx2\obj\Debug\net8.0\ref\BookEx2.dll

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex2\\bookex2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|solutionrelative:bookex2\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex2\\bookex2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|solutionrelative:bookex2\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex2\\bookex2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|solutionrelative:bookex2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex2\\bookex2\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05772279-260F-4BF2-A40E-0FD54524D66D}|BookEx2\\BookEx2.csproj|solutionrelative:bookex2\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\Magazine.cs",
+              "RelativeDocumentMoniker": "BookEx2\\Magazine.cs",
+              "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\Magazine.cs",
+              "RelativeToolTip": "BookEx2\\Magazine.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:28:42.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\Book.cs",
+              "RelativeDocumentMoniker": "BookEx2\\Book.cs",
+              "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\Book.cs",
+              "RelativeToolTip": "BookEx2\\Book.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:14:44.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\Item.cs",
+              "RelativeDocumentMoniker": "BookEx2\\Item.cs",
+              "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\Item.cs",
+              "RelativeToolTip": "BookEx2\\Item.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:48:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\MyClass.cs",
+              "RelativeDocumentMoniker": "BookEx2\\MyClass.cs",
+              "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx2\\BookEx2\\MyClass.cs",
+              "RelativeToolTip": "BookEx2\\MyClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:47:47.918Z",
+              "EditorCaption": ""
             }
           ]
         }
