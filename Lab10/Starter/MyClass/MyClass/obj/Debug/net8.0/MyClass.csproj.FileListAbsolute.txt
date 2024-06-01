@@ -1,0 +1,15 @@
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\bin\Debug\net8.0\MyClass.exe
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\bin\Debug\net8.0\MyClass.deps.json
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\bin\Debug\net8.0\MyClass.runtimeconfig.json
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\bin\Debug\net8.0\MyClass.dll
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\bin\Debug\net8.0\MyClass.pdb
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.AssemblyInfoInputs.cache
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.AssemblyInfo.cs
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.sourcelink.json
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.dll
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\refint\MyClass.dll
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.pdb
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\MyClass.genruntimeconfig.cache
+D:\Labs\LabWork09\Lab10\Starter\MyClass\MyClass\obj\Debug\net8.0\ref\MyClass.dll
