@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|solutionrelative:bookex4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|solutionrelative:bookex4\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|solutionrelative:bookex4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|solutionrelative:bookex4\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\ipubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|solutionrelative:bookex4\\ipubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|solutionrelative:bookex4\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D31D27EF-0A52-4599-9CFE-22374CC54AB7}|BookEx4\\BookEx4.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex4\\bookex4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IPubs.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\IPubs.cs",
               "RelativeDocumentMoniker": "BookEx4\\IPubs.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\IPubs.cs",
               "RelativeToolTip": "BookEx4\\IPubs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T13:36:21.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MyClass.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\MyClass.cs",
               "RelativeDocumentMoniker": "BookEx4\\MyClass.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\MyClass.cs",
               "RelativeToolTip": "BookEx4\\MyClass.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAoAAAAMAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T13:35:55.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Magazine.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\Magazine.cs",
               "RelativeDocumentMoniker": "BookEx4\\Magazine.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\Magazine.cs",
               "RelativeToolTip": "BookEx4\\Magazine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABRAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T13:35:51.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\Item.cs",
               "RelativeDocumentMoniker": "BookEx4\\Item.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx4\\BookEx4\\Item.cs",
               "RelativeToolTip": "BookEx4\\Item.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwAMAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T13:35:47.078Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "RelativeToolTip": "BookEx4\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T13:35:42.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T13:35:42.066Z"
             }
           ]
         }
