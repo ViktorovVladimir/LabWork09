@@ -3,7 +3,7 @@
 
 namespace BookEx3
 {
-    class Item
+    abstract class Item
     {
         // инвентарный номер - целое число
         protected long invNumber;
@@ -47,10 +47,12 @@ namespace BookEx3
         }
 
         //--. операция "вернуть"
-        public virtual void Return()
+        abstract public void Return();
+        /*
         {
             taken = true;
         }
+        */
 
         //--. метод, выводящий на экран информацию о единице хранения
         public virtual void Show()

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|solutionrelative:bookex3\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex3\\bookex3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|solutionrelative:bookex3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex3\\bookex3\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|solutionrelative:bookex3\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex3\\bookex3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|solutionrelative:bookex3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|d:\\labs\\labwork09\\lab10\\starter\\bookex3\\bookex3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38BC77F2-1F2E-4377-A8C8-7FA22754F525}|BookEx3\\BookEx3.csproj|solutionrelative:bookex3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,14 +40,14 @@
               "RelativeDocumentMoniker": "BookEx3\\MyClass.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx3\\BookEx3\\MyClass.cs",
               "RelativeToolTip": "BookEx3\\MyClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T13:08:36.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Magazine.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx3\\BookEx3\\Magazine.cs",
               "RelativeDocumentMoniker": "BookEx3\\Magazine.cs",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "BookEx3\\Magazine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T13:04:23.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T13:04:23.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx3\\BookEx3\\Book.cs",
               "RelativeDocumentMoniker": "BookEx3\\Book.cs",
@@ -68,18 +67,17 @@
               "RelativeToolTip": "BookEx3\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T12:51:00.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T12:51:00.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx3\\BookEx3\\Item.cs",
               "RelativeDocumentMoniker": "BookEx3\\Item.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\BookEx3\\BookEx3\\Item.cs",
               "RelativeToolTip": "BookEx3\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAcAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T12:49:51.538Z",
               "EditorCaption": ""
