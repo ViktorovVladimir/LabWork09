@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookEx3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3a7668ade08fa8471c777a2afc6fccda2523e0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2848d0a05511643dcebb2b814342fad1e2316334")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookEx3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookEx3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

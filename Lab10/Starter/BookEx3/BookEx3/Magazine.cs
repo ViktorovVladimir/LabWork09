@@ -1,7 +1,6 @@
-﻿using BookEx2;
-using System;
+﻿using System;
 
-namespace BookEx2
+namespace BookEx3
 {
     class Magazine : Item
     {
@@ -27,13 +26,19 @@ namespace BookEx2
         }
 
         //--.
-        new public void Show()
+        public override void Show()
         {
             //--.
             Console.WriteLine("\nЖурнал:\n Том: {0}\n Номер: {1}\n Название: {2}\n Год выпуска: {3}", volume, number, title, year);
             
             //--.
             base.Show();
+        }
+
+        //--. операция "вернуть"
+        public override void Return()
+        {
+            taken = true;
         }
 
     }

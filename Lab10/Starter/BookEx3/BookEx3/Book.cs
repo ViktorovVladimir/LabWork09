@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BookEx2
+namespace BookEx3
 {
     //--.
     class Book : Item
@@ -11,6 +11,7 @@ namespace BookEx2
         String publisher;   //издательство
         int pages;          //кол-во страниц
         int year;           //год издания
+        bool bReturnSrok;        //для учёта возвращения книги
 
         //--.
         static double price = 9;
@@ -39,7 +40,7 @@ namespace BookEx2
         }
 
         //--.
-        new public void Show()
+        public override void Show()
         {
             //--.
             Console.WriteLine("\nКнига: \n Автор: {0}\n Название: {1}\n Год издания: {2}\n {3} стр.\n Стоимость аренды: {4}", author, title, year, pages, Book.price);
@@ -61,6 +62,25 @@ namespace BookEx2
             {
                 this.Take();
             }
+        }
+
+        //--. метод, устанавливающий, что книга сдана в срок
+        public void funcReturnSrok()
+        {
+            bReturnSrok = true;
+        }
+
+        public override void Return()
+        {
+            if (bReturnSrok == true)
+            {
+                taken = true;
+            }
+            else
+            {
+                taken = false;
+            }
+
         }
 
     }

@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace BookEx2
+namespace BookEx3
 {
     class Item
     {
@@ -11,7 +11,7 @@ namespace BookEx2
         protected bool taken;
         
         //--.
-        public Item(long invNumber, bool taken)
+        public Item( long invNumber, bool taken )
         {
             this.invNumber = invNumber;
             this.taken = taken;
@@ -28,7 +28,7 @@ namespace BookEx2
         //--. истина, если этот предмет имеется в библиотеке
         public bool isAvailable()
         {
-            if (taken == true)
+            if( taken == true )
                 return true;
             else
                 return false;
@@ -47,15 +47,24 @@ namespace BookEx2
         }
 
         //--. операция "вернуть"
-        public void Return()
+        public virtual void Return()
         {
             taken = true;
         }
 
         //--. метод, выводящий на экран информацию о единице хранения
-        public void Show()
+        public virtual void Show()
         {
             Console.WriteLine(" Состояние единицы хранения:\n Инвентарный номер: {0}\n Наличие: {1}", invNumber, taken);
+        }
+
+        //--.
+        public void TakeItem()
+        {
+            if( this.isAvailable() )
+            {
+                this.Take();
+            }
         }
     }
 }
