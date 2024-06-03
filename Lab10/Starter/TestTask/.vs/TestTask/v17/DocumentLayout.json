@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\tsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\tsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\ttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\ttriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\tcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\tcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\tpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\tpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\irotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\irotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\tsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\tsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\tpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\tpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|d:\\labs\\labwork09\\lab10\\starter\\testtask\\testtask\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C7E5C6-5117-481B-B91C-A09CDB5A1D9F}|TestTask\\TestTask.csproj|solutionrelative:testtask\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "TPoint.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\TPoint.cs",
               "RelativeDocumentMoniker": "TestTask\\TPoint.cs",
@@ -72,20 +72,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "TSquare.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\TSquare.cs",
               "RelativeDocumentMoniker": "TestTask\\TSquare.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\TSquare.cs",
               "RelativeToolTip": "TestTask\\TSquare.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T15:22:40.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TCircle.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\TCircle.cs",
               "RelativeDocumentMoniker": "TestTask\\TCircle.cs",
@@ -104,27 +104,27 @@
               "RelativeDocumentMoniker": "TestTask\\TTriangle.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\TTriangle.cs",
               "RelativeToolTip": "TestTask\\TTriangle.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAwD4AAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T14:46:25.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Shape.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\Shape.cs",
               "RelativeDocumentMoniker": "TestTask\\Shape.cs",
               "ToolTip": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\Shape.cs",
               "RelativeToolTip": "TestTask\\Shape.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAgwCUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T14:35:44.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Test.cs",
               "DocumentMoniker": "D:\\Labs\\LabWork09\\Lab10\\Starter\\TestTask\\TestTask\\Test.cs",
               "RelativeDocumentMoniker": "TestTask\\Test.cs",
@@ -132,8 +132,7 @@
               "RelativeToolTip": "TestTask\\Test.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAA9wC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T14:35:38.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T14:35:38.067Z"
             }
           ]
         }
